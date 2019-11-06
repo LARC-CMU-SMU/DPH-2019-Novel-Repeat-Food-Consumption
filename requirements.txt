@@ -1,0 +1,9 @@
+fpmc==0.0.0
+hpfrec==0.2.2.13
+matplotlib
+numba
+numpy
+pandas
+scikit-learn
+scipy
+seaborn

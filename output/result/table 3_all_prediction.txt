@@ -1,0 +1,14 @@
+\begin{tabular}{llll}
+\toprule
+Method &                    recall@5 &                 precision@5 &                      nDCG@5 \\
+\midrule
+MixtureTW &  \textbf{0.389} $\pm$ 0.029 &  \textbf{0.352} $\pm$ 0.039 &  \textbf{0.465} $\pm$ 0.038 \\
+Mixture   &           0.370 $\pm$ 0.026 &           0.337 $\pm$ 0.035 &           0.446 $\pm$ 0.034 \\
+FPMC      &           0.355 $\pm$ 0.026 &           0.321 $\pm$ 0.034 &           0.414 $\pm$ 0.034 \\
+NMF       &           0.184 $\pm$ 0.010 &           0.175 $\pm$ 0.014 &           0.267 $\pm$ 0.012 \\
+HPF       &           0.099 $\pm$ 0.005 &           0.102 $\pm$ 0.010 &           0.143 $\pm$ 0.009 \\
+LDA       &           0.071 $\pm$ 0.013 &           0.060 $\pm$ 0.005 &           0.083 $\pm$ 0.009 \\
+Global    &           0.053 $\pm$ 0.004 &           0.052 $\pm$ 0.004 &           0.073 $\pm$ 0.004 \\
+Personal  &           0.366 $\pm$ 0.026 &           0.333 $\pm$ 0.035 &           0.441 $\pm$ 0.034 \\
+\bottomrule
+\end{tabular}
