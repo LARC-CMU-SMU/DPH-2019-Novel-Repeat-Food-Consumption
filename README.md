@@ -25,13 +25,13 @@ Run the notebook `1-0-Data preparation.ipynb` to perpare the datasets for the re
 
 __Outputs:__ Several CSV files will be generated and stored in the `data` folder.
 
-### Step 2: Exploitary data analysis
+### Step 2: Exploratory data analysis
 Run the notebooks `1-*.ipynb` to perform data analysis of repeat and novel consumption. The notebook requires data files from previous steps in the `data` folder.
 
 __Outputs:__ Several reports will be generated and stored in the `figure` folder.
 
-### Step 3: Paramater tuning of recommenders
-Run the notebook `2-*.ipynb` to perform parameter tuning for the recommendation models. The notebook requires data files from previous steps in the `data` folder.
+### Step 3: Hyperparamater tuning of recommenders
+Run the notebook `2-*.ipynb` to perform hyperparameter tuning for the recommendation models. The notebook requires data files from previous steps in the `data` folder.
 
 __Outputs:__ Several files will be generated and stored in the `output/param` folder.
 
